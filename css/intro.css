@@ -1,0 +1,30 @@
+.intro {
+  height: 300px;
+  background: url(../img/img2.png) #ffe0ba center center/cover no-repeat;
+  color: white;
+  text-align: center;
+  position: relative; }
+  .intro__title {
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 70px;
+    padding-bottom: 50px; }
+  .intro__center {
+    display: flex;
+    justify-content: center; }
+    .intro__center_left {
+      padding: 10px 18px;
+      border-right: 2px white solid; }
+    .intro__center_right {
+      padding: 10px 18px; }
+  .intro__header {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: #a3a9a7;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    font-size: 13px;
+    font-weight: italic; }
+
+/*# sourceMappingURL=intro.css.map */

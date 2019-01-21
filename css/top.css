@@ -1,0 +1,33 @@
+.top {
+  height: 295px;
+  background: url(../img/beach.png) #000000 center center/cover no-repeat;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; }
+  .top__title {
+    font-size: 26px;
+    font-weight: bold; }
+  .top__text {
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 25px 0 50px 0; }
+  .top__link {
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase; }
+
+.button__link {
+  width: 233px;
+  height: 50px;
+  background: white;
+  color: black;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer; }
+  .button__link:hover {
+    background: #56aff4; }
+
+/*# sourceMappingURL=top.css.map */

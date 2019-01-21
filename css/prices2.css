@@ -1,0 +1,27 @@
+.prices2 {
+  height: 282px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly; }
+  .prices2__title {
+    font-size: 22px;
+    font-weight: bold; }
+  .prices2__text {
+    color: #888888; }
+
+.star {
+  display: flex; }
+  .star__hotel {
+    font-weight: bold; }
+  .star__line {
+    width: 330px;
+    border-bottom: 1px #e6e6e6 solid;
+    margin-bottom: 3px;
+    margin-left: 4px;
+    margin-right: 4px; }
+  .star__price {
+    color: #318cc6;
+    font-weight: bold; }
+
+/*# sourceMappingURL=prices2.css.map */
